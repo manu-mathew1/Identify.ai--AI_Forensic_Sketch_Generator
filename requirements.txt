@@ -1,0 +1,18 @@
+# Stable Diffusion dependencies
+torch
+diffusers
+transformers
+accelerate
+safetensors
+
+# AUTOMATIC1111 WebUI API (if using WebUI)
+requests
+
+# Image processing
+pillow
+opencv-python
+
+# CaricatureGAN dependencies (if needed)
+torchvision
+numpy
+matplotlib

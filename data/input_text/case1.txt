@@ -1,0 +1,6 @@
+Age: 35, Male  
+Face: Square shape, prominent jawline  
+Eyes: Deep-set, brown  
+Nose: Slightly curved  
+Hair: Short, black, slightly wavy  
+Facial Hair: Thick mustache, no beard  
