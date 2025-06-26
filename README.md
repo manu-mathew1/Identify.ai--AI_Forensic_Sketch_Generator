@@ -4,6 +4,9 @@ Generate suspect sketches from natural language descriptions using Stable Diffus
 
 **Identify.ai** is an experimental forensic tool that converts descriptive text (e.g., *“a tall man with a beard and a scar on his left cheek”*) into AI-generated facial sketches. Powered by Stable Diffusion on the backend and a full-stack integration with Flask and React, it simulates how generative AI could assist in law enforcement investigations.
 
+> 🚫 The full Stable Diffusion integration logic is not included in this public version. This repo is for UI/API structure and educational reference only.
+
+
 ---
 
 ## 🎯 Features
