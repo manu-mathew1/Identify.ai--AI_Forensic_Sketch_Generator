@@ -113,3 +113,8 @@ Note: Stable Diffusion and third-party models have their own licenses. Use them 
 ## ⚠️ Disclaimer
 
 This tool is for educational and experimental purposes only. It is not intended for real-world forensic use or as a law enforcement utility.
+
+> ⚠️ **Important Notice**  
+> This project is protected under copyright.  
+> Do **NOT** copy, reuse, deploy, or distribute any part of this codebase without explicit permission.  
+> All rights reserved © 2025 Thomas Paul CJ
