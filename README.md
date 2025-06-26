@@ -75,7 +75,8 @@ npm start
 Frontend should run on: http://localhost:3000
 ```
 
-### 🔧 System Architecture
+## 🔧 System Architecture
+
 ```text
 [ Text Input ]
       ↓
@@ -86,7 +87,8 @@ Frontend should run on: http://localhost:3000
       ↓
 [ React Frontend Display ]
 ```
-### 🔮 Future Improvements
+## 🔮 Future Improvements
+
 ☑ Prompt history / sketch log UI
 
 🎨 Realism toggle: sketch vs semi-photorealistic
@@ -97,14 +99,17 @@ Frontend should run on: http://localhost:3000
 
 ⚡ Inference speedup with ONNX or optimized SD engines
 
-### 🤝 Contributing
+## 🤝 Contributing
+
 Got improvements in image quality, UI/UX, or prompt parsing?
 Open a PR or drop your ideas in an issue. All contributions welcome.
 
-### 📄 License
+## 📄 License
+
 This project is licensed under the MIT License.
 
 Note: Stable Diffusion and third-party models have their own licenses. Use them responsibly.
 
-### ⚠️ Disclaimer
+## ⚠️ Disclaimer
+
 This tool is for educational and experimental purposes only. It is not intended for real-world forensic use or as a law enforcement utility.
