@@ -33,7 +33,7 @@ Generate suspect sketches from natural language descriptions using Stable Diffus
 ## 🚀 Demo Preview
 
 <p align="center">
-  <img src="https://your-demo-image-or-gif-url" width="500" alt="Identify.ai demo preview" />
+  <img src="[https://your-demo-image-or-gif-url](https://github.com/manu-mathew1/Identify.ai--AI_Forensic_Sketch_Generator/blob/master/demo_preview/demo_preview.jpg)" width="500" alt="Identify.ai demo preview" />
 </p>
 
 **Input:**  
