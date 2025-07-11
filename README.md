@@ -51,7 +51,7 @@ The lips are medium in fullness, closed, and expressionless, forming a straight 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ThomasPaulCJ/identify-ai.git
+git clone https://github.com/manu-mathew1/Identify.ai--AI_Forensic_Sketch_Generator.git
 cd identify-ai
 ```
 ### 2. Backend Setup (Flask + Stable Diffusion)
