@@ -37,7 +37,7 @@ Generate suspect sketches from natural language descriptions using Stable Diffus
 </p>
 
 **Input:**  
-`"A bald man in his 40s with a long face, glasses, and a serious expression"`
+`"Generate a detailed Al-assisted forensic caricature sketch of a female suspect. Emphasize and slightly exaggerate defining facial features-such as eye shape, brow thickness, nose structure, lip contour, jawline, and cheekbones-while retaining enough realism for recognition purposes. Include any distinguishing marks like scars, wrinkles, moles, or makeup traces with high clarity. Render the sketch in high-contrast grayscale, using expert-level shading to create depth and enhance key identifiers. Maintain a neutral, forward-facing expression against a plain background. The composition should follow forensic sketch standards but allow for caricature-inspired emphasis to improve recall and identification accuracy."`
 
 **Output:**  
 *(AI-generated sketch image)*
