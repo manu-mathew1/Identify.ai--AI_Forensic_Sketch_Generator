@@ -42,11 +42,10 @@ Emphasize a furrowed brow and a slightly tense jaw to convey a serious or alert 
 Follow traditional forensic sketch standards, but with controlled exaggeration of high-recognition traits (e.g., eye bags, lip edges, or eyebrow angle) to improve witness memory recall and facial recognition accuracy."`
 
 **Output:**  
-*(AI-generated sketch image)*
 
-> 📸 Replace the above image URL with your real screenshot or demo gif for full impact.
-
----
+<p align="center">
+  <img src="https://github.com/manu-mathew1/Identify.ai--AI_Forensic_Sketch_Generator/blob/master/demo_preview/demo_preview.jpg" width="500" alt="Identify.ai demo preview" />
+</p>
 
 ## ⚙️ Getting Started
 
