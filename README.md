@@ -113,7 +113,7 @@ This project was collaboratively developed and maintained by:
 
 - [**Manu Mathew**](https://github.com/manu-mathew1)  
 - [**Thomas Paul C J**](https://github.com/thomaspaulcj)  
-- [**Nayif Nazar**](https://github.com/nayifnazar)  
+- [**Nayif Nazar**](https://github.com/MrNayif)  
 - [**Vidhusankar C H**](https://github.com/vidhusankar-hozo)
 
 All four contributors share equal ownership and recognition for the design, development, and vision of Identify.ai.
