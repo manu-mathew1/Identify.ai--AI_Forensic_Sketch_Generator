@@ -44,7 +44,7 @@ Follow traditional forensic sketch standards, but with controlled exaggeration o
 **Output:**  
 
 <p align="center">
-  <img src="https://github.com/manu-mathew1/Identify.ai--AI_Forensic_Sketch_Generator/blob/master/demo_preview/demo_preview.jpg" width="500" alt="Identify.ai demo preview" />
+  <img src="https://github.com/manu-mathew1/Identify.ai--AI_Forensic_Sketch_Generator/blob/master/demo_preview/output_image.png" width="350" alt="Identify.ai demo preview" />
 </p>
 
 ## ⚙️ Getting Started
