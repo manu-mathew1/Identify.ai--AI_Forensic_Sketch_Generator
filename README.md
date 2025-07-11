@@ -37,7 +37,9 @@ Generate suspect sketches from natural language descriptions using Stable Diffus
 </p>
 
 **Input:**  
-`"Generate a detailed Al-assisted forensic caricature sketch of a female suspect. Emphasize and slightly exaggerate defining facial features-such as eye shape, brow thickness, nose structure, lip contour, jawline, and cheekbones-while retaining enough realism for recognition purposes. Include any distinguishing marks like scars, wrinkles, moles, or makeup traces with high clarity. Render the sketch in high-contrast grayscale, using expert-level shading to create depth and enhance key identifiers. Maintain a neutral, forward-facing expression against a plain background. The composition should follow forensic sketch standards but allow for caricature-inspired emphasis to improve recall and identification accuracy."`
+`"Generate a detailed AI-assisted forensic caricature sketch of a middle-aged male suspect. Slightly exaggerate defining facial features—such as deep-set eyes, prominent brow ridge, wide nose bridge, slightly asymmetrical lips, and a square jawline—while maintaining realistic proportions for identification. Highlight distinguishing facial traits like a short stubble beard, crow’s feet near the eyes.
+Emphasize a furrowed brow and a slightly tense jaw to convey a serious or alert expression. Render the entire composition in high-contrast grayscale with layered shading to bring depth to the cheekbones, under-eye areas, and temples. The hair should appear short, receding slightly at the temples, with visible texture. Maintain a forward-facing, neutral head orientation, with no accessories or obstructions like hats or sunglasses. Place the subject against a plain light-gray background, ensuring all features are unobstructed.
+Follow traditional forensic sketch standards, but with controlled exaggeration of high-recognition traits (e.g., eye bags, lip edges, or eyebrow angle) to improve witness memory recall and facial recognition accuracy."`
 
 **Output:**  
 *(AI-generated sketch image)*
