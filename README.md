@@ -37,14 +37,13 @@ Generate suspect sketches from natural language descriptions using Stable Diffus
 </p>
 
 **Input:**  
-`"Generate a detailed AI-assisted forensic caricature sketch of a middle-aged male suspect. Slightly exaggerate defining facial features—such as deep-set eyes, prominent brow ridge, wide nose bridge, slightly asymmetrical lips, and a square jawline—while maintaining realistic proportions for identification. Highlight distinguishing facial traits like a short stubble beard, crow’s feet near the eyes.
-Emphasize a furrowed brow and a slightly tense jaw to convey a serious or alert expression. Render the entire composition in high-contrast grayscale with layered shading to bring depth to the cheekbones, under-eye areas, and temples. The hair should appear short, receding slightly at the temples, with visible texture. Maintain a forward-facing, neutral head orientation, with no accessories or obstructions like hats or sunglasses. Place the subject against a plain light-gray background, ensuring all features are unobstructed.
-Follow traditional forensic sketch standards, but with controlled exaggeration of high-recognition traits (e.g., eye bags, lip edges, or eyebrow angle) to improve witness memory recall and facial recognition accuracy."`
+`"Generate a detailed AI-assisted forensic sketch of a young adult male suspect, approximately in his early 30s. The subject has straight black hair, short in length and combed slightly forward, with a soft part near the center. The face is oval-shaped with a smooth forehead and well-defined cheekbones. Emphasize low-set, straight eyebrows and narrow, almond-shaped eyes with a calm, neutral gaze. The nose is straight with a moderately narrow bridge and defined nostrils.
+The lips are medium in fullness, closed, and expressionless, forming a straight line. The jawline is angular but not overly sharp, with a subtle chin cleft and no facial hair. Ears are average in size and clearly visible. Render the sketch in high-contrast grayscale, using realistic shading to highlight facial structure—especially around the eyes, nose bridge, and jaw. Maintain a front-facing pose with no background elements, following traditional forensic standards but with subtle emphasis on distinctive traits to support witness memory and recognition accuracy."`
 
 **Output:**  
 
 <p align="center">
-  <img src="https://github.com/manu-mathew1/Identify.ai--AI_Forensic_Sketch_Generator/blob/master/demo_preview/output_image.png" width="350" alt="Identify.ai demo preview" />
+  <img src="https://github.com/manu-mathew1/Identify.ai--AI_Forensic_Sketch_Generator/blob/master/demo_preview/output_image.png" width="300" alt="Identify.ai demo preview" />
 </p>
 
 ## ⚙️ Getting Started
